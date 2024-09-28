@@ -23,9 +23,9 @@ _Text autotranslated by ChatGPT from Norwegian to English for You_:
 > A Restaurant.java class should implement the functionality for creating reservations.  
 >
 > The following files must be created: 
-> - Kunde.java, 
-> - Bord.java, 
-> - Reservasjon.java, 
+> - Customer.java, 
+> - Table.java, 
+> - Reservation.java, 
 > - Restaurant.java.  
 >
 > We need to create a method that adds a reference to a table in a list of tables.  
