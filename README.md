@@ -6,7 +6,9 @@
 
 _This is an assignment given by the lecturer of the program, and this is my solution to it._
 
-Text autotranslated by ChatGPT from Norwegian to English for You:
+---
+
+_Text autotranslated by ChatGPT from Norwegian to English for You_:
 
 
 > For this exercise, we will create a small program that will make table reservations for a restaurant. Each table is 
@@ -20,7 +22,11 @@ Text autotranslated by ChatGPT from Norwegian to English for You:
 >
 > A Restaurant.java class should implement the functionality for creating reservations.  
 >
-> The following files must be created: Kunde.java, Bord.java, Reservasjon.java, Restaurant.java.  
+> The following files must be created: 
+> - Kunde.java, 
+> - Bord.java, 
+> - Reservasjon.java, 
+> - Restaurant.java.  
 >
 > We need to create a method that adds a reference to a table in a list of tables.  
 >
